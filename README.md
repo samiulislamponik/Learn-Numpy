@@ -1,0 +1,3 @@
+# Learn-Numpy
+This folder is contained all the files of numpy, which was created on my learning time.
+## Blog will be uploaded very soon...
